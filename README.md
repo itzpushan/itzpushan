@@ -2,45 +2,84 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=itzpushan&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 👀 I'm Interested in **Software Engineering**
+🎓 B.Tech CSE @ IIT Bhilai (2022–2026)  
+💻 Backend & Distributed Systems Enthusiast  
+🌱 Exploring Machine Learning & System Design  
 
-- 🌱 Currently Exploring **Machine Learning**
+---
 
-- I work on backend-heavy **software projects** using tools like **Node.js, Express, PostgreSQL, MongoDB, Redis, Kafka, Docker, Kubernetes, Prometheus**, and more.
+## 🚀 About Me
 
-- 📫 Reach me at [pushank@iitbhilai.ac.in](mailto:pushank@iitbhilai.ac.in)
+- 🔧 Backend-focused engineer building **scalable distributed systems**
+- ⚙️ Experience with **event-driven architectures, Kafka, gRPC**
+- 🧠 Interested in **system design, infra, and ML systems**
+- 📫 Reach me: **pushankumar28@gmail.com**
 
-## Let's Connect!
+---
+
+## 💼 Experience
+
+**Software Engineering Intern @ Ocrolus (Remote)** *(July 2025 – Present)*  
+- Built **gRPC-based Forms Management System (FMS)** replacing manual SQL workflows  
+- Developed **Flask BFF layer** over gRPC services  
+- Designed **WFH task assignment system** using JWT + org policies  
+- Implemented **copy + checksum-based form systems**, improving TAT  
+- Migrated legacy services to **FMS-backed APIs (v2/v3 deprecation)**  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+`Python` `Go` `TypeScrip`  `C++` `C`
+
+### ⚙️ Backend & Systems
+`Flask` `gRPC` `SQLAlchemy` `Pydantic` `Pytest` `Prisma` `Gorilla Mux`  
+`Redis` `WebSockets` `Celery` `Flipt` `JWT` `Node.js` `Express`
+
+### 🧱 Infrastructure & DevOps
+`Docker` `Kubernetes` `Kafka` `Prometheus` `Grafana`
+
+### 🗄 Databases
+`PostgreSQL` `MongoDB`
+
+### 🤖 Machine Learning
+`PyTorch` `ResNet` `EfficientNet` `YOLO`
+
+---
+
+## 🔥 Projects
+
+### ⚡ Zapped – Event-Driven Workflow Engine
+- Built a **Zapier-style automation system**
+- Implemented **Transactional Outbox Pattern** for reliability  
+- Kafka-based async processing with **at-least-once delivery**
+- Designed **Webhook ingestion + dynamic workflow execution**
+- Clean separation using **worker + outbox + orchestrator**
+
+**Tech:** TypeScript, Kafka, PostgreSQL, Prisma, Docker  
+
+---
+
+### 🐔 Poultry Disease Classification
+- Deep learning model using **ensemble learning (ResNet, EfficientNet, VGG)**  
+- Achieved **94%+ accuracy**  
+- Built robust classification pipeline for real-world data  
+
+**Tech:** PyTorch, YOLO  
+
+---
+
+## 🏆 Achievements
+
+- ⭐ Codeforces **Pupil**
+- 🌍 Rank **565** – Codeforces Round 1029  
+- 🏅 Rank **56** – CodeChef Starters 150  
+- 💯 Solved **700+ DSA problems**
+
+---
+
+## 🔗 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushan-kumar-0bb802229/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itzpushan)
-
-## 🛠 Languages and Tools
-**Programming Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Web Frameworks & Libraries**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-**DevOps & Infrastructure**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-28A745?style=for-the-badge&logo=grpc&logoColor=white)
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Monitoring & Observability**  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-**Testing**  
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
